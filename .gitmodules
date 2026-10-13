@@ -1,0 +1,63 @@
+[submodule "submodules/r3map"]
+	path = submodules/r3map
+	url = https://github.com/pojntfx/r3map.git
+
+[submodule "submodules/MemLiner"]
+	path = submodules/MemLiner
+	url = https://github.com/uclasystem/MemLiner.git
+
+[submodule "submodules/canvas"]
+	path = submodules/canvas
+	url = https://github.com/uclasystem/canvas.git
+
+[submodule "submodules/Mako"]
+	path = submodules/Mako
+	url = https://github.com/uclasystem/Mako.git
+
+[submodule "submodules/rmpool"]
+	path = submodules/rmpool
+	url = https://github.com/dopecoder/rmpool.git
+
+[submodule "submodules/puma"]
+	path = submodules/puma
+	url = https://github.com/mlorrillere/puma.git
+
+[submodule "submodules/hclib"]
+	path = submodules/hclib
+	url = https://github.com/habanero-rice/hclib.git
+
+[submodule "submodules/Infiniswap"]
+	path = submodules/Infiniswap
+	url = https://github.com/SymbioticLab/Infiniswap.git
+
+[submodule "submodules/fastswap"]
+	path = submodules/fastswap
+	url = https://github.com/clusterfarmem/fastswap.git
+
+[submodule "submodules/cfm"]
+	path = submodules/cfm
+	url = https://github.com/clusterfarmem/cfm.git
+
+[submodule "submodules/SimCXL"]
+	path = submodules/SimCXL
+	url = https://github.com/TianheMICALab/SimCXL.git
+
+[submodule "submodules/cxl-reskit"]
+	path = submodules/cxl-reskit
+	url = https://github.com/cxl-reskit/cxl-reskit.git
+
+[submodule "submodules/rapiddisk"]
+	path = submodules/rapiddisk
+	url = https://github.com/pkoutoupis/rapiddisk.git
+
+[submodule "submodules/rwMem"]
+	path = submodules/rwMem
+	url = https://github.com/ri-char/rwMem.git
+
+[submodule "submodules/LeechCore"]
+	path = submodules/LeechCore
+	url = https://github.com/ufrisk/LeechCore.git
+
+[submodule "submodules/pcileech"]
+	path = submodules/pcileech
+	url = https://github.com/ufrisk/pcileech.git
